@@ -115,7 +115,7 @@ SPAN.import-playlist,
 .tinner H2,
 .tinner P
 {
-  color: rgb(238, 238, 238) !important;
+  color: "cyan" !important;
 }
   /* Colour for DubX button */
 .header-right-navigation .for IMG{
