@@ -706,7 +706,7 @@ HEADER FIGURE,
 #user_popover DIV,
 #user_popover .ban INPUT,
 #autocomplete-preview{
-  background-color: transparent !Important;
+  background-color: rgba(30, 41, 66, 0.70)!Important;
 }
 
 .for_content{
