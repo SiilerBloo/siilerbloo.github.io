@@ -217,7 +217,7 @@ A.dubup:hover SPAN{
 
 #chat .chat-system-loading,
 .timeago{
-  color: rgb(29, 69, 110) !important;
+  color: "lightblue" !important;
 }
 
 #warning H3,
