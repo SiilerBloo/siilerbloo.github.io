@@ -735,3 +735,9 @@ HEADER FIGURE,
     color: cyan;
     position: relative;
 }
+
+#chat .chat_tools span.icon-people i.room-guest-counter {
+    font-size: 13.6px;
+    font-size: .85rem;
+    color: lightblue;
+}
