@@ -38,8 +38,4 @@
 @import url("https://frosolf.github.io/usrprefs.css"); /* User-specific settings (Better chat improves some of this) */
   /* Special */
   
-  /* Queue Window */
-element.style {
-    margin-bottom: 55px;
-    width: 60%;
-}
+
