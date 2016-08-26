@@ -38,6 +38,18 @@ html.dubx img.emoji.twitch-emoji[alt="taxibro"] { min-width: 4.5rem; } /* :taxib
 #profileMainSection { top: 3.4rem; min-height: initial; height: calc(100vh - 6.9rem); overflow-y: auto; }
 #profileMainSection .profileWrapper { margin-top: 3rem; }
 #profileMainSection #profileSidebar #followersEl { margin-bottom: 3rem; }
+
+/* User banned/message deleted fix */
+#chat .chat-container .chat-messages .chat-main li.deleted-message .stream-item-content .image_row > img { opacity: .4; }
+#chat .chat-container .chat-messages .chat-main li.deleted-message .stream-item-content .image_row::before {
+    content: "";
+    font-family: cursive, Arial, sans-serif;
+    position: absolute;
+    top: 3px;
+    left: 13px;
+    font-weight: 900;
+    color: red;
+    font-size: 1.5rem;
 }
 
 /* Soundcloud player fixes */
