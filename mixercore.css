@@ -127,14 +127,6 @@ SPAN.import-playlist,
   color: rgb(0, 0, 0) !important;
 }
 
-.creator .username,
-.creator .username:after,
-.co-owner .username,
-.isCo-owner .username,
-.co-owner .username:after{
-  color: rgb(107, 160, 214) !Important;
-}
-
 .room-item HEADER .name,
 .room-item .room-user A,
 #roomFormUpdate LABEL,
@@ -221,11 +213,6 @@ A.dubdown:hover SPAN,
 .check_username_info.error,
 .container .cancel:hover P{
   color: rgb(255, 45, 49) !important;
-}
-
-.admin .username,
-.admin .username:after{
-  color: rgb(0, 255, 255) !important;
 }
 
 .autolink{
