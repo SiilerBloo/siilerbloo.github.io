@@ -239,8 +239,8 @@ A.dubdown:hover SPAN,
   color: rgb(28, 173, 235) !Important;
 }
 
-#chat .chat-container .chat-messages .chat-main li .activity-row .text p
-color: {rgb(0, 255, 255);
+#chat .chat-container .chat-messages .chat-main li .activity-row .text p{
+  color: rgb(0, 255, 255);
 }
 
 /* Backgrounds */
