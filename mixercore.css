@@ -166,8 +166,8 @@ SPAN.import-playlist,
   color: rgb(180, 201, 222) !important;
 }
 
-.username-handle {
-  color: rgb(255, 0, 255) !important;
+#chat .chat-container .chat-messages .chat-main li .activity-row .text .username-handle.mentioned {
+    color: rgba(255,0,255,.8);
 }
 
 .chat-option-buttons *,
