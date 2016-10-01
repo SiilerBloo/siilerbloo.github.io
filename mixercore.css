@@ -243,7 +243,8 @@ A.dubdown:hover SPAN,
   color: rgb(0, 255, 255);
 }
 
-#chat .chat-container ul.chat-main li.user-562e6582afa97c1900f755a3 .stream-item-content .activity-row .username /* siilerbloo */ { color: #FF1493 !important;  }
+#chat .chat-container ul.chat-main li.user-562e6582afa97c1900f755a3 .stream-item-content .activity-row .username /* siilerbloo */{
+    color: #FF1493 !important;
     background-image: url(http://i.imgur.com/dhgreG2.png);
     display: inline-block !important;
 }
