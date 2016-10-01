@@ -132,7 +132,6 @@ SPAN.import-playlist,
 #main-menu-left A,
 #main-room-active-link .icon-chevron,
 .room-info-display-container SPAN I,
-.username-handle,
 .videoquality-el,
 .mod-controllers-headers A,
 .mods-controller-container H2 SPAN,
@@ -166,6 +165,11 @@ SPAN.import-playlist,
 .tinner A{
   color: rgb(180, 201, 222) !important;
 }
+
+.username-handle {
+  color: rgb(255, 0, 255) !important;
+}
+
 .chat-option-buttons *,
 .mods-controller-container .user-list *,
 #user_popover A,
